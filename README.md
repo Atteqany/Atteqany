@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Mastering >>> going to PHD 
 
 <!--
 **Atteqany/Atteqany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
